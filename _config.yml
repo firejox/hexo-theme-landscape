@@ -19,19 +19,14 @@ widgets:
 	- category
 	- recent_posts
 	- links
-	- ukagaka
 
 # Miscellaneous
 google_analytics:
 favicon: /f.ico
 twitter:
-google_plus: 108158678174364359204
+google_plus:
 fb_admins:
 fb_app_id:
-
-# Google sitemap
-google_siteVerification:
-  id: 5mRgj8NanEMpGZuNfHNJNmH90RgNlrnJXsFlTaKD6Gs
 
 # Toc
 toc:
@@ -39,8 +34,6 @@ toc:
   aside: false     ## show contents in aside.
 
 ## social
-facebook_url: https://www.facebook.com/Morris1028
-github_url: https://github.com/morris821028
-google_plus_url: https://plus.google.com/u/0/108158678174364359204
-uhunt_url: http://uhunt.felix-halim.net/id/46705
+facebook_url: https://www.facebook.com/firejox
+github_url: https://github.com/firekjox
 
